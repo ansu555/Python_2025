@@ -1,4 +1,3 @@
-# print hello.py file by this
+from Hello_python import anik
 
-from hello import anik
-anik("bolo") 
+anik("back coffee")
